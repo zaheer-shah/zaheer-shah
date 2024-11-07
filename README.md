@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaheer-shah
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Html, css , javascript, bootstrap, xampp
-- 💞️ I’m looking to collaborate on web dev projects - i am fresher
+- 🌱 I’m currently learning Html, css , javascript , Tailwind , React js 
+- 💞️ I’m looking to collaborate on web dev projects - with company or indiviual
 - 📫 How to reach me => my linkedIn  https://pk.linkedin.com/in/syed-zaheer-hussain-shah
 - ⚡ Fun fact: ... learning coding :)
 
